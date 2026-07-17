@@ -1,0 +1,3 @@
+Machine Learning Engineer Intern
+
+We are looking for a Python developer with strong machine learning fundamentals. The candidate should have hands-on experience with pandas, numpy, scikit-learn, NLP preprocessing, TF-IDF, cosine similarity, SQL, SQLite, data visualization, Plotly, Streamlit, Git, model evaluation, data cleaning, feature engineering, dashboard development, PDF processing, and report generation. Knowledge of statistics, software engineering, database design, and clean project documentation is preferred.

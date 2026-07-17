@@ -1,0 +1,60 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 826 >>
+stream
+BT
+/F1 12 Tf
+50 790 Td
+14 TL
+(Machine Learning Engineer Intern - Job Description) Tj
+T*
+T*
+(We are hiring a Machine Learning Engineer Intern who can build practical Python applications) Tj
+T*
+( and explain their work clearly.) Tj
+T*
+T*
+(Required Skills: Python, SQL, SQLite, Pandas, NumPy, Scikit-learn, machine learning, NLP, TF) Tj
+T*
+(-IDF, cosine similarity, Streamlit, Plotly, Git, data cleaning, feature engineering, model e) Tj
+T*
+(valuation, dashboard development, PDF processing, report generation.) Tj
+T*
+T*
+(Good To Have: statistics, software engineering basics, database design, clean documentation,) Tj
+T*
+( and experience building end-to-end college projects.) Tj
+T*
+T*
+(Responsibilities: preprocess data, build ML logic, create dashboards, generate reports, and ) Tj
+T*
+(maintain readable Python code.) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1188
+%%EOF
